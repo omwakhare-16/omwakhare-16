@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Personal web development projects<br><br>👯 I’m looking to collaborate on<br>- Open-source and beginner-friendly web projects<br><br>🤝 I’m looking for help with<br>- Real-world project experience<br><br>🌱 I’m currently learning<br>- HTML, CSS, JavaScript<br>- Frontend development fundamentals<br><br>💬 Ask me about<br>- Web development basics<br>- Student tech life<br><br>⚡ Fun fact<br>- Every bug teaches me something new 🐞
+🔭 I’m currently working on<br>- A Movie Ticket Website<br><br>👯 I’m looking to collaborate on<br>- Open-source and beginner-friendly web projects<br><br>🤝 I’m looking for help with<br>- Real-world project experience<br><br>🌱 I’m currently learning<br>- HTML, CSS, JavaScript<br>- Frontend development fundamentals<br><br>💬 Ask me about<br>- Web development basics<br>- Student tech life<br><br>⚡ Fun fact<br>- Every bug teaches me something new 🐞
 
 
 ## 🌐 Socials:
